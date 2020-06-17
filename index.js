@@ -1,3 +1,3 @@
-function dwarfRollCall(dwarves) 
+function dwarfRollCall(dwarves) {
 
 dwarves 
